@@ -9,3 +9,7 @@
 1.3:Scan student’s information and display all the data.
 
 ![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/bb646351-0bcc-4600-9380-116fc4859259)
+
+1.4:Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/8dd6cadb-fe81-417a-8952-27cc45997534)
