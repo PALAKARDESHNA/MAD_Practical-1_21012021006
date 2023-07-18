@@ -17,3 +17,7 @@
 1.5:Display month name using When.
 
 ![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/f2ecd639-0498-48dd-9703-b9253f8a1580)
+
+1.6:By using a user defined function perform all arithmetic operations.
+
+![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/a61f814c-6e6e-42b7-a57a-b00fd501fdc0)
