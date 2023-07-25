@@ -20,7 +20,7 @@
 
 1.6:By using a user defined function perform all arithmetic operations.
 
-![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/a61f814c-6e6e-42b7-a57a-b00fd501fdc0)
+![image](https://github.com/PALAKARDESHNA/MAD_Practical-1_21012021006/assets/98075245/b4594038-dd47-4691-b96e-35de6ec69949)
 
 1.7:Find the factorial of number by recursion. Explain "tailrec" keyword.
 
