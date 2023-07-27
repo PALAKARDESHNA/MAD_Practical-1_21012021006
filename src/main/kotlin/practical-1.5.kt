@@ -3,7 +3,7 @@ import javax.print.DocFlavor.READER
 
 fun main(){
     println("ardeshna palak/21012021006")
-    println("enter the number:14")
+    println("enter the number:")
     var reader = Scanner(System.`in`)
     var x : Int = reader.nextInt()
     when(x){

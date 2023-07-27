@@ -16,6 +16,10 @@ fun main(){
     var y = mul(num1 , num2)
     var z = div(num1 , num2)
 
+    println("sub is $x")
+    println("mul is $y")
+    println("div is $z")
+
 
     println("Sum is $sum")
 
@@ -23,7 +27,6 @@ fun main(){
 }
 
 fun add(num1 : Double , num2: Double) : Double {
-
     return num1 + num2
 }
 
